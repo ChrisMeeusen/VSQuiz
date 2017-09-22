@@ -1,0 +1,6 @@
+c:\users\m042872\documents\visual studio 2015\Projects\VSQuiz\VSQuiz\bin\Debug\VSQuiz.exe.config
+c:\users\m042872\documents\visual studio 2015\Projects\VSQuiz\VSQuiz\bin\Debug\VSQuiz.exe
+c:\users\m042872\documents\visual studio 2015\Projects\VSQuiz\VSQuiz\bin\Debug\VSQuiz.pdb
+c:\users\m042872\documents\visual studio 2015\Projects\VSQuiz\VSQuiz\obj\Debug\VSQuiz.csprojResolveAssemblyReference.cache
+c:\users\m042872\documents\visual studio 2015\Projects\VSQuiz\VSQuiz\obj\Debug\VSQuiz.exe
+c:\users\m042872\documents\visual studio 2015\Projects\VSQuiz\VSQuiz\obj\Debug\VSQuiz.pdb
